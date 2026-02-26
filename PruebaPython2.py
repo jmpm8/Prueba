@@ -1,4 +1,6 @@
 a = "Hola"
 b = "Jorge"
+c = "Martin"
 
-print(a+" "+b)
+
+print(a+" "+b+" " +c)
